@@ -6,9 +6,14 @@ This repository contains the final project for the **Visual Data Analysis** cour
 
 The research questions addressed in this project are:
 
-1. **Which type of exercise is more effective in burning calories: aerobic or anaerobic?**
-2. **Does BMI influence the choice of workout type?**
-3. **Is weekly workout frequency associated with a higher number of calories burned per session?**
+1. [**Which type of exercise is more effective in burning calories: aerobic or anaerobic?**](./notebooks/calories_burned_by_exercise_type.ipynb)
+
+2. [**Does BMI influence the choice of workout type?**](./notebooks/BMI_influence_workout_type.ipynb)
+3. [**Is weekly workout frequency associated with a higher number of calories burned per session?**](./notebooks/frequency_burns_more_calories.ipynb) 
+
+If you click on each question you will be redirected to the notebook that answers the question.
+
+We created a notebook only for the  Exploratory Data Analysis task, check it out [**EDA Notebook**](./notebooks/eda.ipynb)
 
 ## 📂 Dataset
 
